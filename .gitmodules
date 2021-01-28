@@ -1,8 +1,0 @@
-[submodule "legion_team_meeting_integeration"]
-	path = legion_team_meeting_integeration
-	url = https://gitlab.com/allss_odoo/allss_products/modulos/legion_team_meeting_integeration.git
-	branch = 13.0.1.0.0
-[submodule "project_hours_allss"]
-	path = project_hours_allss
-	url = https://gitlab.com/allss_odoo/allss_products/modulos/project_hours_allss.git
-	branch = 13.0
